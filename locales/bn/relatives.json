@@ -1,0 +1,12 @@
+{
+  "Name": "নাম",
+  "Birth Registration": "জন্ম নিবন্ধন",
+  "Relation": "সম্পর্ক",
+  "Age": "বয়স",
+  "Profession": "পেশা",
+  "Relation is Required": "সম্পর্ক আবশ্যক",
+  "Birth Registration is Required": "জন্ম নিবন্ধন আবশ্যক",
+  "Age is Required": "বয়স আবশ্যক",
+  "Profession is Required": "পেশা আবশ্যক",
+  "Name is Required": "নাম আবশ্যক"
+}

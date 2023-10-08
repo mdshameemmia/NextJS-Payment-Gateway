@@ -1,0 +1,12 @@
+{
+  "Name": "Name",
+  "Birth Registration": "Birth Registration",
+  "Relation": "Relation",
+  "Age": "Age",
+  "Profession": "Profession",
+  "Relation is Required": "Relation is Required",
+  "Birth Registration is Required": "Birth Registration is Required",
+  "Age is Required": "Age is Required",
+  "Profession is Required": "Profession is Required",
+  "Name is Required": "Name is Required"
+}
